@@ -1,5 +1,5 @@
 # A simple makefile for creating the SolventCrossflowHX distribution package
-VERSION    := 2015.10.00
+VERSION    := `git describe --tags`
 PRODUCT    := Solvent Crossflow Heat Exchanger Calculator
 PROD_SNAME := SolventCrossflowHX
 LICENSE    := CCSI_TE_LICENSE_$(PROD_SNAME).txt
