@@ -21,3 +21,16 @@ TBD
 * Brent Sherman
 
 See also the list of [contributors](https://github.com/CCSI-Toolset/SolventCrossflowHX/contributors) who participated in this project.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, 
+see the [tags on this repository](https://github.com/CCSI-Toolset/SolventCrossflowHX/tags). 
+
+## License
+
+See [LICENSE.md](LICENSE.md) file for details
+
+## Copyright Notice
+
+TBD
